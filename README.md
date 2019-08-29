@@ -1,5 +1,5 @@
 # file2text
-Convert files of different types into formatted text
+Convert files of different types into formatted text (markdown)
 
 
 
