@@ -7,10 +7,10 @@ Convert files of different types into formatted text (markdown)
 
 
 ## Supported Document Extensions
-    - [ ] .doc
-    - [ ] .docx
-    - [ ] .pdf
-    - [ ] .epub
+ - [ ] .doc
+ - [ ] .docx
+ - [ ] .pdf
+ - [ ] .epub
 
 
 
