@@ -6,23 +6,25 @@ Convert files of different types into formatted text (markdown)
 
 
 
-1. Supported Document Extensions
+## Supported Document Extensions
     - [ ] .doc
     - [ ] .docx
     - [ ] .pdf
     - [ ] .epub
 
-2. Proposed Utilities
+
+
+## Proposed Utilities
     - PyPDF2
     - camelot
     - docx2txt
     - fulltext
 
-3. Output Representation
+## Output Representation
     - Markdown, OR/OR COMBINED WITH
     - HTML
 
-3. Reserved Properties
+## Reserved Properties
     - (Nested) lists
     - Tables
     - Links
